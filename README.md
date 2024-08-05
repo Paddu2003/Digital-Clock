@@ -1,5 +1,5 @@
 # DigitalClock
-![1212](http://127.0.0.1:5500/)
+!(http://127.0.0.1:5500/)
 
 
 # Build your own digital clock with JavaScript
